@@ -1,0 +1,72 @@
+[
+  {
+    "id": 0,
+    "type": "Samsung Galaxy Fold",
+    "picture": "images/Fold.jpg",
+    "area": "A+",
+    "price": 1.23
+  },
+  {
+    "id": 1,
+    "type": "Gucci wallet",
+    "picture": "images/GG.jpg",
+    "area": "B+",
+    "price": 1.56
+  },
+  {
+    "id": 2,
+    "type": "Lug",
+    "picture": "images/Lug.jpg",
+    "area": "A0",
+    "price": 2.74
+  },
+  {
+    "id": 3,
+    "type": "Apple Mac 15inch",
+    "picture": "images/Mac.jpg",
+    "area": "B+",
+    "price": 1.87
+  },
+  {
+    "id": 4,
+    "type": "Python Textbook",
+    "picture": "images/book.jpg",
+    "area": "A+",
+    "price": 1.97
+  },
+  {
+    "id": 5,
+    "type": "Balenciaga shoes",
+    "picture": "images/sho.jpg",
+    "area": "B-",
+    "price": 1.77
+  },
+  {
+    "id": 6,
+    "type": "Data processing engineer Textbook",
+    "picture": "images/gbook.jpg",
+    "area": "A+",
+    "price": 2.12
+  },
+  {
+    "id": 7,
+    "type": "AirPods2",
+    "picture": "images/air.jpg",
+    "area": "B+",
+    "price": 2.57
+  },
+  {
+    "id": 8,
+    "type": "Clothes rack",
+    "picture": "images/hang.jpg",
+    "area": "B0",
+    "price": 1.32
+  },
+  {
+    "id": 9,
+    "type": "Cat Tower",
+    "picture": "images/cat.jpg",
+    "area": "C+",
+    "price": 1.11
+  }
+]
